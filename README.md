@@ -14,6 +14,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -33,6 +35,7 @@
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -84,4 +87,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
