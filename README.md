@@ -38,6 +38,7 @@
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jigyasa165/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -50,6 +51,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jigyasa165/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
