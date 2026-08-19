@@ -31,6 +31,7 @@
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/Jigyasa165/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Jigyasa165/Leetcode/tree/master/1563-stone-game-v) |
@@ -62,6 +63,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Jigyasa165/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jigyasa165/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -92,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Jigyasa165/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jigyasa165/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jigyasa165/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jigyasa165/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -105,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Jigyasa165/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Jigyasa165/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jigyasa165/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
