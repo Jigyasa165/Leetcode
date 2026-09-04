@@ -56,6 +56,7 @@
 | [3731-find-missing-elements](https://github.com/Jigyasa165/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jigyasa165/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Jigyasa165/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Jigyasa165/Leetcode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Jigyasa165/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
