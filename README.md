@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Jigyasa165/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Jigyasa165/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jigyasa165/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jigyasa165/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Jigyasa165/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1406-stone-game-iii) |
