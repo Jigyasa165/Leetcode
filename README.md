@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Jigyasa165/Leetcode/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/Jigyasa165/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Jigyasa165/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Jigyasa165/Leetcode/tree/master/1927-sum-game) |
