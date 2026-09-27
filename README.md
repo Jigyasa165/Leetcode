@@ -8,6 +8,7 @@
 | [0038-count-and-say](https://github.com/Jigyasa165/Leetcode/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/Jigyasa165/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Jigyasa165/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jigyasa165/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jigyasa165/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Jigyasa165/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jigyasa165/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0032-longest-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jigyasa165/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Jigyasa165/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jigyasa165/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
