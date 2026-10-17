@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jigyasa165/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0486-predict-the-winner](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jigyasa165/Leetcode_Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Jigyasa165/Leetcode/tree/master/0835-image-overlap) |
@@ -254,6 +255,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jigyasa165/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Jigyasa165/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jigyasa165/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
