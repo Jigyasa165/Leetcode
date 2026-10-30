@@ -24,6 +24,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Jigyasa165/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Jigyasa165/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jigyasa165/Leetcode_Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Jigyasa165/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Jigyasa165/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Jigyasa165/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jigyasa165/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Jigyasa165/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
