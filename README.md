@@ -73,6 +73,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jigyasa165/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jigyasa165/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jigyasa165/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jigyasa165/Leetcode/tree/master/3731-find-missing-elements) |
@@ -133,6 +134,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Jigyasa165/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Jigyasa165/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -177,6 +179,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jigyasa165/Leetcode_Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jigyasa165/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jigyasa165/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jigyasa165/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Jigyasa165/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -261,6 +265,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jigyasa165/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Jigyasa165/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jigyasa165/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
 | ------- |
