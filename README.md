@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jigyasa165/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jigyasa165/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jigyasa165/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jigyasa165/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jigyasa165/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jigyasa165/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jigyasa165/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
